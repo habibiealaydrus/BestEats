@@ -78,7 +78,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/habibiealaydrus/BestEats/blob/main/public/besteat%20preview.png)
 
-Penghargaan Tempat Makan Pertama di Indonesia yang bersifat Objektif. Terinspirasi bangkitnya budaya kuliner lokal, Jakarta’s Best Eats diluncurkan pada Desember 2017 dengan tujuan membedah dan mengedepankan tempat makan yang luar biasa di antara persaingan industri kuliner
+The First Objective Dining Award in Indonesia. Inspired by the rise of local culinary culture, Jakarta's Best Eats was launched in December 2017 with the aim of dissecting and highlighting extraordinary places to eat among the competitive culinary industry.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
